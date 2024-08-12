@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.para{
+font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 19.6px;
+    text-align: center;
+}
+.heading{
+    font-family: Plus Jakarta Sans;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 30px;
+        display: flex;
+        justify-content: center;
+}
+.card{
+    border-radius: 20px !important;
+}
+.bg-color-blue{
+    background: #0389ff43 !important;
+    
+}
+.bg-black{
+    background: #000 !important;
+}
+.color-white{
+    color: #fff !important;
+}
